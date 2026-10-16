@@ -1,0 +1,36 @@
+# SafeConnect Prototype
+
+## Overview
+
+The SafeConnect prototype demonstrates the proposed user experience for a community safety information and incident-reporting platform for the Auckland Park–Melville area in Johannesburg, South Africa.
+
+The prototype was developed using Canva as part of the SafeConnect academic project for ILS2B01 Project Management.
+
+## Access the Prototype
+
+**Canva prototype:**  https://heyzazi.my.canva.site/safeconnect-auckland-park-prototype
+https://canva.link/y2xvzon14gwvxtf  
+
+The prototype is intended to demonstrate the proposed interface and user interactions. Access may depend on the sharing permissions configured in Canva.
+
+## Key Features Demonstrated
+
+The proposed platform explores the following features, where represented in the current prototype:
+
+- Community safety information.
+- Incident-reporting interface.
+- High-priority safety alerts.
+- Community snapshot and sample report information.
+- Administrative review and moderation concepts.
+
+Only features actually present in the current prototype should be described as demonstrated.
+
+## Prototype Limitations
+
+This is a visual, clickable prototype rather than a fully deployed production application. Sample incident information is for demonstration purposes and must not be interpreted as a verified real-world incident.
+
+Live reporting, operational notifications, backend services, authentication, database integrations and real-world incident verification should not be assumed to be implemented.
+
+## Future Improvements
+
+Potential future work includes usability testing, accessibility improvements, refinement based on feedback, and further technical development if approved and supported by the project scope.
